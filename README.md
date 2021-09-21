@@ -1,2 +1,2 @@
 # React-ShoppingApp
-Created with CodeSandbox
+shoppingApp URL = https://csb-yocgk.netlify.app/
